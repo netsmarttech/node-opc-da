@@ -21,7 +21,6 @@
   "license": "Apache-2.0",
   "dependencies": {
     "node-dcom": "^1.0.9",
-    "random": "^2.1.1",
     "long": "^4.0.0"
   }
 }
